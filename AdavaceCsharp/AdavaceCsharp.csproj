@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>.Revers1</StartupObject>
+    <StartupObject>AdavaceCsharp.FileHandlingDemo.Program2</StartupObject>
+  </PropertyGroup>
+
+</Project>
